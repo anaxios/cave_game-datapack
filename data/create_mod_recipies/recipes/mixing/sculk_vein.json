@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "minecraft:sculk"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:sculk_vein",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "amount": 500,
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:healing"
+      }
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:spider_spawn_egg",
+      "count": 1
+    }
+  ]
+}

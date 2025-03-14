@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "amount": 250,
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:strong_healing"
+      }
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:piglin_spawn_egg",
+      "count": 1
+    }
+  ]
+}

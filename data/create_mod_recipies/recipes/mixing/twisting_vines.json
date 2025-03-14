@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "minecraft:warped_wart_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:twisting_vines",
+      "count": 2
+    }
+  ]
+}

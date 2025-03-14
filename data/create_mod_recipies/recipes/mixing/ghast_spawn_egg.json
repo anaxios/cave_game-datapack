@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "amount": 500,
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:healing"
+      }
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ghast_spawn_egg",
+      "count": 1
+    }
+  ]
+}
